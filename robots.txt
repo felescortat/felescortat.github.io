@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://felescortat.github.io/sitemap.html
+Sitemap: https://felescortat.github.io/app/sitemap.html
+Sitemap: https://felescortat.github.io/assets/sitemap.html
+Sitemap: https://felescortat.github.io/css/sitemap.html
+Sitemap: https://felescortat.github.io/includes/sitemap.html
+Sitemap: https://felescortat.github.io/item/sitemap.html
+Sitemap: https://felescortat.github.io/src/sitemap.html
